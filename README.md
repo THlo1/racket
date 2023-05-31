@@ -18,6 +18,10 @@
 racket.exe -H IP -P port "C:\Users\Administrator\Desktop\test"
 ```
 
+加密文件
+
 ![](image/2.png)
+
+反弹执行
 
 ![](image/3.png)
