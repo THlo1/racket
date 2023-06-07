@@ -25,3 +25,6 @@ racket.exe -H IP -P port "C:\Users\Administrator\Desktop\test"
 反弹执行
 
 ![](image/3.png)
+
+
+#### 部分环境对python支持不友好,用C简单改写一个实现加密和弹窗功能 racket3.0.exe
